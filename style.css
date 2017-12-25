@@ -6,11 +6,11 @@ h1  {
   border-style: solid;
   border-radius: 10px;
   text-align: center;
-  /*color: LightCoral;*/
+  color: LightCoral;
   font-family: Tahoma, Geneva, sans-serif;
 }
 p {
-  /*color: PaleGreen;*/
+  color: PaleGreen;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
