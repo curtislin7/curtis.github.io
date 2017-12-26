@@ -3,19 +3,23 @@ body  {
   color: #000000;
 }
 h1  {
-  text-align: center;
-  color: LightCoral;
   font-family: Tahoma, Geneva, sans-serif;
+  font-size: 100px;
+  letter-spacing: 4px;
 }
-p {
-  color: PaleGreen;
+
+h2  {
   font-family: Tahoma, Geneva, sans-serif;
 }
 
-.rotate90 {
-    -webkit-transform: rotate(90deg);
-    -moz-transform: rotate(90deg);
-    -o-transform: rotate(90deg);
-    -ms-transform: rotate(90deg);
-    transform: rotate(90deg);
+p {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
 }
